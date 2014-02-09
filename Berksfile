@@ -1,4 +1,3 @@
 site :opscode
 
-cookbook 'cassandra'
-cookbook 'postgresql91'
+cookbook 'postgresql'
