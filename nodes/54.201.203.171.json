@@ -1,8 +1,0 @@
-{
-  "postgresql": {
-    "password": {
-      "postgres": "honestly"
-    }
-  },
-  "run_list": ["recipe[postgresql::server]"]
-}
