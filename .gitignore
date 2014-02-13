@@ -1,1 +1,4 @@
 /cookbooks/
+
+# Ignore .swp files from Vim
+*.swp
