@@ -1,1 +1,3 @@
-{"run_list":["recipe[rabbitmq]"]}
+{
+  "run_list":["recipe[rabbitmq]"]
+}

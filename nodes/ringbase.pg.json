@@ -4,5 +4,5 @@
       "postgres": "honestly"
     }
   },
-  "run_list": ["recipe[postgresql::server]"]
+  "run_list": ["recipe[postgresql::server]", "role[postgresql]"]
 }

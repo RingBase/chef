@@ -1,0 +1,20 @@
+{
+  "id": "postgresql",
+  "users": [
+    {
+      "username":"ringbase",
+      "password":"bcmsw_ringbase",
+      "superuser":"true"
+    }
+  ],
+  "databases": [
+    {
+      "name":"ringbase",
+      "owner":"ringbase", 
+      "template":"template0",
+      "encoding":"UTF8",
+      "locale":"en_US.utf8"
+    }
+  ] 
+}
+
